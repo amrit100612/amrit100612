@@ -1,81 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Amrit%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20in%20Progress&descSize=16&descAlignY=85&descColor=888888" width="100%"/>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f1a,100:00ff88&height=180&section=header&text=AMRIT%20KUMAR&fontSize=48&fontColor=00ff88&fontAlignY=55&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Software%20Engineering&descSize=17&descAlignY=78&descColor=ffffff"/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+student+%40+HIT;Building+security+tools+%26+ML+projects;Learning+AI+Security+%7C+Blue+Team+%7C+Threat+Detection;Turning+%22what+if%3F%22+into+%22let's+test+it%22"/>
 
-```
-building in public · learning in the open · grinding daily
-```
+<br>
 
-**`CSE (Cyber Security) · Haldia Institute of Technology · 2027`**
+`[ SYSTEM STATUS: ONLINE ]`    ` [ THREAT LEVEL: LEARNING ]`    `[ MODE: BUILD + BREAK + LEARN ]`
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=amrit100612&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true"/>
+## `> whoami`
 
-### About
+```bash
+┌──[amrit@github]─[~/profile]
+└─$ whoami
 
-Third-year undergrad on a mission —  
-DSA by day, projects by night.  
-Working toward an SDE role at a product company.
+Amrit Kumar
 
-**Obsessing over:**
-- Clean code over clever code
-- DSA — Arrays → Binary Search → Trees
-- Java for backend, Python for ML
+┌──[amrit@github]─[~/profile]
+└─$ cat about.txt
 
-<br clear="right"/>
+Cybersecurity undergraduate @ Haldia Institute of Technology
+Exploring AI Security, Network Security & Threat Detection
+Building security-focused tools while sharpening Java + DSA
 
----
-
-### Stack
-
-```java
-String[] languages = { "Java", "Python", "JavaScript", "C" };
-String[] web        = { "React", "HTML5", "CSS3", "REST APIs" };
-String[] ml         = { "Scikit-Learn", "Pandas", "NumPy", "Streamlit" };
-String[] tools      = { "Git", "Linux", "VS Code" };
+Current objective:
+→ Become a security-minded software engineer
+→ Build practical cybersecurity projects
+→ Understand how systems fail — and how to secure them
 ```
 
 ---
 
-### Projects
+## `> current_mission`
 
-```
-◆  IRIS Predict          ML Classification · 96% accuracy · KNN / SVM / Decision Tree
-   github.com/amrit100612/IRIS_Predict              Python · Scikit-Learn · Streamlit
-
-◆  Weather App           Real-time dashboard · Geolocation · Async API calls
-   github.com/amrit100612/Weather                   JavaScript · REST API
-
-◆  CipherX               CLI Encryption tool · Bidirectional · Secure coding
-   github.com/amrit100612/CipherX                   Python · Cryptography
-```
-
----
-
-### Certifications
-
-```
-▸  Deloitte Australia — Cyber Security Virtual Program    2024
-▸  Hacktoberfest                                          Level 4 · 2024
-▸  GirlScript Summer of Code                             Contributor · 2025
+```text
+╔════════════════════════════════════════════════════════════╗
+║                    CURRENT MISSION                         ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [01] AI Security       ███████████████░░░  ACTIVE         ║
+║  [02] Network Security  ██████████████░░░░  ACTIVE         ║
+║  [03] Threat Detection  ████████████░░░░░░  LEARNING       ║
+║  [04] Java + DSA        ███████████████░░░  GRINDING       ║
+║  [05] Security Projects ████████████████░░  BUILDING       ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<div align="center">
+## `> arsenal`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit100612)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amritkumar.me)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritkum1209@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrit100612)
+### Languages
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+![Java](https://img.shields.io/badge/Java-0b0f0c?style=for-the-badge\&logo=openjdk\&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-0b0f0c?style=for-the-badge\&logo=python\&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0f0c?style=for-the-badge\&logo=javascript\&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-0b0f0c?style=for-the-badge\&logo=c\&logoColor=00ff88)
 
-</div>
+### Cybersecurity
+
+![Linux](https://img.shields.io/badge/Linux-0b0f0c?style=for-the-badge\&logo=linux\&logoColor=00ff88)
+![Scapy](https://img.shields.io/badge/Scapy-0b0f0c?style=for-the-badge\&logo=python\&logoColor=00ff88)
+![Splunk](https://img.shields.io/badge/Splunk-0b0f0c?style=for-the-badge\&logo=splunk\&logoColor=00ff88)
+![Wireshark](https://img.shields.io/badge/Wireshark-0b0f0c?style=for-the-badge\&logo=wireshark\&logoColor=00ff88)
+
+### Development / ML
+
+![Git](https://img.shields.io/badge/Git-0b0f0c?style=for-the-badge\&logo=git\&logoColor=00ff88)
+![Streamlit](https://img.shields.io/badge/Streamlit-0b0f0c?style=for-the-badge\&logo=streamlit\&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/Pandas-0b0f0c?style=for-the-badge\&logo=pandas\&logoColor=00ff88)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0b0f0c?style=for-the-badge\&logo=scikit-learn\&logoColor=00ff88)
+
+---
+
+## `> projects`
+
+### `01` — PCAP Threat Analyzer
+
+> **Network traffic analysis & rule-based threat detection**
+
+```text
+INPUT
+  │
+  └── .pcap / .pcapng
+          │
+          ▼
+     ┌───────────┐
+     │   Scapy   │
+     └─────┬─────┘
+           │
+           ▼
+   Packet Extraction
+           │
+           ▼
+   ┌───────────────────┐
+   │ Detection Engine  │
+   ├───────────────────┤
+   │ • Port Scanning   │
+   │ • Brute Force     │
+   │ • Suspicious DNS  │
+   │ • Suspicious HTTP │
+   └────
+```
